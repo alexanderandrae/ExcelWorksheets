@@ -1,2 +1,2 @@
 # Excel Worksheets
-A collection of excel worksheets highlighting raw data cleaning and various forms of visualisation.  
+A collection of Microsoft Excel worksheets highlighting raw data cleaning and various forms of visualisation.  
